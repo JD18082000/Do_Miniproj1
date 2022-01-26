@@ -29,6 +29,7 @@ for(var offset=0; offset <200; offset+= 20){
     }
   
   line(200, 0, 100 - slant, height);
+  stroke (225,0,0);
   line(400, 200, 155 - slant, height);
   strokeWeight(5);
   
